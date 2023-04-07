@@ -1,0 +1,33 @@
+{
+    "name": "Mariana",
+    "comment": "Port of Sublime text color scheme",
+    "foreground-color": "#dddddd",
+    "background-color": "#343D46",
+    "use-theme-colors": false,
+    "use-highlight-color": false,
+    "highlight-foreground-color": "#dddddd",
+    "highlight-background-color": "#88c0d070",
+    "use-cursor-color": false,
+    "cursor-foreground-color": "#dddddd",
+    "cursor-background-color": "#dddddd",
+    "use-badge-color": true,
+    "badge-color": "#c594c5",
+    "palette": [
+        "#23292e",
+        "#EE6A6F",
+        "#A3CE9E",
+        "#FAB763",
+        "#6699cc",
+        "#c594c5",
+        "#5FB3B3",
+        "#dddddd",
+        "#23292e",
+        "#EE6A6F",
+        "#A3CE9E",
+        "#FAB763",
+        "#6699cc",
+        "#c594c5",
+        "#5FB3B3",
+        "#dddddd"
+    ]
+}
